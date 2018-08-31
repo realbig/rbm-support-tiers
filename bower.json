@@ -1,0 +1,17 @@
+{
+	"name": "RBM_Support_Tiers",
+	"version": "0.1.0",
+	"dependencies": {},
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/realbig/rbm-support-tiers.git"
+	}
+}
