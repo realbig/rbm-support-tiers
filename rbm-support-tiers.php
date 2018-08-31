@@ -3,7 +3,7 @@
  * Plugin Name: RBM Support Tiers
  * Plugin URI: https://github.com/realbig/rbm-support-tiers
  * Description: Functionality for RBM Support Tiers
- * Version: 0.1.0
+ * Version: 1.0.0
  * Text Domain: rbm-support-tiers
  * Author: Eric Defore
  * Author URI: https://realbigmarketing.com/
